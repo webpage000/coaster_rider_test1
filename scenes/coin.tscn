@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://beoyyy8srmlui"]
+
+[node name="Coin" type="Area2D"]
